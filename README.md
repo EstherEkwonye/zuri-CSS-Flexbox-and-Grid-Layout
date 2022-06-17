@@ -1,5 +1,8 @@
 # zuri-CSS-Flexbox-and-Grid-Layout
 
+[HOSTED PAGE](https://estherekwonye.github.io/zuri-CSS-Flexbox-and-Grid-Layout/)
+
+
 [All information and images needed for the design can be found here](https://drive.google.com/drive/folders/1BMnIuvpsDB2n2EmHpcWD4aqSiN3_0a7T)
 
 [This design was recreated](https://drive.google.com/file/d/1agB-HQY_mq-P9KgCJQxqjXAcCqwbWfm6/view)
