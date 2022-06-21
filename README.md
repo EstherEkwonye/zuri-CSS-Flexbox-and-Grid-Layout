@@ -2,6 +2,8 @@
 
 [FLEXBOX HOSTED PAGE](https://estherekwonye.github.io/zuri-CSS-Flexbox-and-Grid-Layout/)
 
+[GRID LAYOUT HOSTED PAGE](https://estherekwonye.github.io/Grid-layout/)
+
 
 [All information and images needed for the design can be found here](https://drive.google.com/drive/folders/1BMnIuvpsDB2n2EmHpcWD4aqSiN3_0a7T)
 
